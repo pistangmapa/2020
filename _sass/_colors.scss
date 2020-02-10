@@ -1,0 +1,40 @@
+$color-primary: #2e2e2e;
+$color-primary-dark: #0f0f0f;
+$color-primary-light: #6e6e6e;
+$color-secondary: #5bcfbf;
+$color-muted: #f3f3f3;
+$color-accent-red: #cc3500;
+$color-accent-blue: #2184d0;
+$color-accent-yellow: #fcec18;
+
+.color-primary {
+    color: $color-primary;
+}
+
+.color-primary-dark {
+    color: $color-primary-dark;
+}
+
+.color-primary-light {
+    color: $color-primary-light;
+}
+
+.color-secondary {
+    color: $color-secondary;
+}
+
+.color-muted {
+    color: $color-muted;
+}
+
+.color-accent-red {
+    color: $color-accent-red;
+}
+
+.color-accent-blue {
+    color: $color-accent-blue;
+}
+
+.color-accent-yellow {
+    color: $color-accent-yellow;
+}
