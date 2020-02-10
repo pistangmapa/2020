@@ -1,0 +1,20 @@
+<script>
+    var venuemap = L.map('map').setView([10.3289, 123.9013], 16);
+
+    var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+
+    var pnmIcon = L.icon({
+        iconUrl: '{{ site.baseurl }}/assets/img/logos/pnm.png',
+
+        iconSize:     [44, 60], // size of the icon
+        iconAnchor:   [44, 60], // point of the icon which will correspond to marker's location
+        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+    });
+
+    var marker = L.marker([10.3289, 123.9013], {icon: pnmIcon})
+
+    OpenStreetMap_Mapnik.addTo(venuemap);
+    marker.addTo(venuemap);
+</script>
