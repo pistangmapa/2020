@@ -2,7 +2,7 @@
 layout: home
 ---
 <div class='contrainer'>
-    <div class='jumbotron'><h1 class='text-center'>Pista ng Mapa 2020 banner here :)</h1></div>
+    <div class='jumbotron'><h1 id='demo' class='text-center'></h1></div>
 
     <h1 id='register'>Register</h1>
         <tito-widget event='{{ site.tito-event }}'></tito-widget>
@@ -15,4 +15,5 @@ layout: home
         <p>University of Southern Philippines Foundation, USP Compound, Salinas Drive, Cebu City, Philippines<p>
         <div id='map'></div>
 </div>
+{% include countdown.html %}
 {% include venue-map.html %}
