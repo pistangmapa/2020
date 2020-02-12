@@ -1,9 +1,13 @@
 <script>
-    var venuemap = L.map('map').setView([10.3289, 123.9013], 16);
+    var venuemap = L.map('map').setView([10.3289, 123.9013], 12);
 
-    var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-	maxZoom: 19,
+    var omsMapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 20,
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+
+    var voyager =L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png', {
+        maxZoom: 20,
+    })
 
     var pnmIcon = L.icon({
         iconUrl: '{{ site.baseurl }}/assets/img/logos/pnm.png',
@@ -15,6 +19,7 @@
 
     var marker = L.marker([10.3289, 123.9013], {icon: pnmIcon})
 
-    OpenStreetMap_Mapnik.addTo(venuemap);
+    // omsMapnik.addTo(venuemap)
+    voyager.addTo(venuemap);
     marker.addTo(venuemap);
 </script>
