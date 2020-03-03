@@ -96,7 +96,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='friends'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseSix' aria-expanded='true' aria-controls='collapseSix'><h2 class='add-shadow color-accent-blue'>Friends of PnM</h2></button></div><div><span>In kind or other amounts</span></div>
+            <div><button class='btn btn-link text-left' type='button' data-toggle='collapse' data-target='#collapseSix' aria-expanded='true' aria-controls='collapseSix'><h2 class='add-shadow color-accent-blue'>Friends of PnM</h2></button></div><div class='text-right'><span>In kind or other amounts</span></div>
             </div>
             <div id='collapseSix' class='collapse' aria-labelledby='friends' data-parent='#sponsorAccordion'>
             <div class='card-body'>
