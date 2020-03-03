@@ -1,19 +1,19 @@
 .dropdown-menu {
     border: 0px none #ffffff;
-    // background-color: rgba(255,255,255,0);
-    background-color: $color-muted;
+    background-color: rgba(255,255,255,0.5);
+    // background-color: $color-muted;
 
     .dropdown-item {
         padding: 0.1rem 1.25rem;
         &:hover {
-            background-color: rgba(210,210,210,0.4);
+            background-color: rgba(210,210,210,0.5);
         }
     }
 }
 
 .navbar-default {
     border-color: transparent;
-    background-color: white;
+    // background-color: white;
 
     .navbar-collapse {
         border-color: rgba(255,255,255,.02);
@@ -49,4 +49,8 @@
 
 .nav-link {
     padding: 0.2rem 1rem;
+}
+
+.navbar-trans {
+  background: transparent;
 }

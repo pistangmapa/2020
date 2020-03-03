@@ -16,7 +16,7 @@ The available sponsorship opportunities are listed and detailed here, please con
 <div class='accordion' id='sponsorAccordion'>
     <div class='card'>
         <div class='card-header d-flex justify-content-between align-items-center' id='osmium'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseOne' aria-expanded='true' aria-controls='collapseOne'><h2>Osmium</h2></button></div><div><span>$2,500</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseOne' aria-expanded='true' aria-controls='collapseOne'><h2 class='add-shadow color-accent-blue'>Osmium</h2></button></div><div><span>$2,500</span></div>
             </div>
             <div id='collapseOne' class='collapse' aria-labelledby='osmium' data-parent='#sponsorAccordion'>
             <div class='card-body'>
@@ -32,7 +32,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='platinum'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseTwo' aria-expanded='true' aria-controls='collapseTwo'><h2>Platinum</h2></button></div><div><span>$2,000</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseTwo' aria-expanded='true' aria-controls='collapseTwo'><h2 class='add-shadow color-accent-blue'>Platinum</h2></button></div><div><span>$2,000</span></div>
             </div>
             <div id='collapseTwo' class='collapse' aria-labelledby='platinum' data-parent='#sponsorAccordion'>
             <div class='card-body'>
@@ -48,7 +48,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='gold'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseThree' aria-expanded='true' aria-controls='collapseThree'><h2>Gold</h2></button></div><div><span>$1,500</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseThree' aria-expanded='true' aria-controls='collapseThree'><h2 class='add-shadow color-accent-blue'>Gold</h2></button></div><div><span>$1,500</span></div>
             </div>
             <div id='collapseThree' class='collapse' aria-labelledby='gold' data-parent='#sponsorAccordion'>
             <div class='card-body'>
@@ -64,7 +64,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='silver'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseFour' aria-expanded='true' aria-controls='collapseFour'><h2>Silver</h2></button></div><div><span>$800</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseFour' aria-expanded='true' aria-controls='collapseFour'><h2 class='add-shadow color-accent-blue'>Silver</h2></button></div><div><span>$800</span></div>
             </div>
             <div id='collapseFour' class='collapse' aria-labelledby='silver' data-parent='#sponsorAccordion'>
             <div class='card-body'>
@@ -80,7 +80,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='bronze'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseFive' aria-expanded='true' aria-controls='collapseFive'><h2>Bronze</h2></button></div><div><span>$400</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseFive' aria-expanded='true' aria-controls='collapseFive'><h2 class='add-shadow color-accent-blue'>Bronze</h2></button></div><div><span>$400</span></div>
             </div>
             <div id='collapseFive' class='collapse' aria-labelledby='bronze' data-parent='#sponsorAccordion'>
             <div class='card-body'>
@@ -96,7 +96,7 @@ The available sponsorship opportunities are listed and detailed here, please con
         </div>
 
         <div class='card-header d-flex justify-content-between align-items-center' id='friends'>
-            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseSix' aria-expanded='true' aria-controls='collapseSix'><h2>Friends of PnM</h2></button></div><div><span>In kind or other amounts</span></div>
+            <div><button class='btn btn-link' type='button' data-toggle='collapse' data-target='#collapseSix' aria-expanded='true' aria-controls='collapseSix'><h2 class='add-shadow color-accent-blue'>Friends of PnM</h2></button></div><div><span>In kind or other amounts</span></div>
             </div>
             <div id='collapseSix' class='collapse' aria-labelledby='friends' data-parent='#sponsorAccordion'>
             <div class='card-body'>

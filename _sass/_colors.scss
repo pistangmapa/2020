@@ -2,6 +2,7 @@ $color-primary: #2e2e2e;
 $color-primary-dark: #0f0f0f;
 $color-primary-light: #6e6e6e;
 $color-secondary: #5bcfbf;
+$color-tertiary: #32b9bd;
 $color-muted: #f3f3f3;
 $color-accent-red: #cc3500;
 $color-accent-blue: #2184d0;
@@ -21,6 +22,10 @@ $color-accent-yellow: #fcec18;
 
 .color-secondary {
     color: $color-secondary;
+}
+
+.color-tertiary {
+    color: $color-tertiary;
 }
 
 .color-muted {

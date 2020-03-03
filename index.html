@@ -2,7 +2,7 @@
 layout: home
 ---
 <div class='container'>
-    <div class='jumbotron text-center'><h3 class='font-weight-light'>Countdown before the Pista</h3><h1 id='demo' class='text-center'></h1></div>
+    <div class='jumbotron text-center add-shadow' style='background-color: rgba(255,255,255,0.40)'><h3 class='font-weight-light'>Countdown before the Pista</h3><h1 id='demo' class='text-center add-shadow color-tertiary'></h1></div>
 
     <h1 id='about'>About Pista ng Mapa</h1>
     <i>Celebrating open (geo)data and maps; fostering the growth of inclusive communities across the Philippines.</i><br><br>
@@ -17,12 +17,12 @@ layout: home
         <tito-widget event='{{ site.tito-event }}'></tito-widget>
 
     <h1 id="sponsors">Our Sponsors</h1>
-        <div class='jumbotron'></div>
+        <div class='jumbotron add-shadow' style='background-color: rgba(255,255,255,0.40)'></div>
     <h3>Interested in supporting us? <a href='{{ site.baseurl }}/call-for-sponsors'>Be our sponsor!</a></h3>
 
     <h1 id='venue'>Venue</h1>
         <p>University of Southern Philippines Foundation, USP Compound, Salinas Drive, Cebu City, Philippines<p>
-        <div id='map'></div>
+        <div id='map' class='add-shadow'></div>
 </div>
 {% include countdown.html %}
 {% include venue-map.html %}

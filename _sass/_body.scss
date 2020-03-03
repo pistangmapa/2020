@@ -1,13 +1,27 @@
 body {
     font-family: $font-open-sans;
-    font-color: $color-primary;
+    color: $color-primary;
     font-size: 20px;
+    background: url("../img/site/PnM-bg1.webp") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     // background-color: $color-secondary;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: $font-open-sans;
-    font-color: $color-primary-dark;
+h1 {
+    font-family: $font-mogra;
+    color: $color-tertiary;
+    font-weight: bold;
+    line-height: 1.4;
+    text-shadow: 0 0 4px #fbfdb2;
+}
+
+h2, h3, h4, h5, h6 {
+    // font-family: $font-open-sans;
+    font-family: $font-mogra;
+    color: $color-primary-dark;
     font-weight: bold;
     line-height: 1.4;
 }
@@ -28,6 +42,10 @@ p {
     &:hover {
         text-decoration: none;
     }
+}
+
+.add-shadow {
+    text-shadow: 0 0 4px #fbfdb2;
 }
 
 #results-container {
@@ -79,10 +97,11 @@ p {
 }
 
 .title-name {
+    font-family: $font-mogra;
     font-size: 28px;
 
     @media (max-width: 540px) {
-        font-size: 24px;
+        font-size: 23px;
     }
 
     @media (max-width: 320px) {
