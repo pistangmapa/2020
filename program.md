@@ -5,10 +5,8 @@ layout: page
 
 {:#call-for-presentations}
 ## Call for Presentations
-We would like to invite people to submit presentations and sessions to help make our conference a success! The deadline for submissions is on March 31. Visit the following link to submit your proposed sessions.
-
-**[Submission form](https://docs.google.com/forms/d/e/1FAIpQLSfY1Xso3LnqwQHvCrIhqulUSjzdthegzJ03DAd9AlWRV1f7Zw/viewform)**
-
+We would like to invite people to submit presentations and sessions to help make our conference a success! The deadline for submissions is on March 31. Visit the link below to submit your proposed sessions.
+<div class='text-center mb-4'><button class='btn btn-light'><h2 class='add-shadow mt-2'><a href='https://docs.google.com/forms/d/e/1FAIpQLSfY1Xso3LnqwQHvCrIhqulUSjzdthegzJ03DAd9AlWRV1f7Zw/viewform' >Submit a presentation!</a></h2></button></div>
 ### Session types
 We provide the following submission types:
 
@@ -23,16 +21,19 @@ We provide the following submission types:
 **Tapok tapok session (aka birds of a feather).** If you just want a meeting for like-minded people to talk about a specific topic or agenda, this is the session type you should choose. Tapok tapok sessions are intended to be informal, spontaneous discussions and have no set meeting agenda other than the topic.
 
 ### Language
-Since we may have participants coming from outside the Philippines, the preferred language for your session is English. It is an important aspect of the conference that visitors can interact with the speaker for questions and discussion. Tapok tapok sessions, however, can be held in another language especially if the topic is specific to a region or place.
+Since we may have participants coming from outside the Philippines, the preferred language for your session is English. It is an important aspect of the conference that visitors can interact with the speaker for questions and discussion. Tapok-tapok sessions, however, can be held in another language especially if the topic is specific to a region or place.
 
 ### Publication
-We want to conference to be useful even for those who are not able to attend the event in person. As such, we plan to publush video recordings and slides of the sessions online under the [Creative Commons Attribution-Share Alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+We want to conference to be useful even for those who are not able to attend the event in person. As such, we plan to publish video recordings and slides of the sessions online under the [Creative Commons Attribution-Share Alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 <!-- {:#program}
-# Program
+# Program -->
 
 {:#workshops}
 # Workshops
+## Coming Soon! :)
+
 
 {:#tapok-tapok}
-# Tapok-tapok -->
+# Tapok-tapok
+## Coming Soon! :)
