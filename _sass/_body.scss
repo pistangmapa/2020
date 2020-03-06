@@ -108,3 +108,11 @@ p {
         font-size: 18px;
     }
 }
+
+
+#submit-pres-btn {
+    background-color: rgba(254, 185, 56, 0.5);
+    box-shadow: 0 0 8px $color-tertiary;
+    // border-color: rgba(254, 185, 56, 0.8);
+    // border-width: 2px;
+}

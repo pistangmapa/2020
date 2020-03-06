@@ -6,7 +6,7 @@ layout: page
 {:#call-for-presentations}
 ## Call for Presentations
 We would like to invite people to submit presentations and sessions to help make our conference a success! The deadline for submissions is on March 31. Visit the link below to submit your proposed sessions.
-<div class='text-center mb-4'><button class='btn btn-light'><h2 class='add-shadow mt-2'><a href='https://docs.google.com/forms/d/e/1FAIpQLSfY1Xso3LnqwQHvCrIhqulUSjzdthegzJ03DAd9AlWRV1f7Zw/viewform' >Submit a presentation!</a></h2></button></div>
+<div class='text-center mb-4'><button class='btn' id='submit-pres-btn'><h2 class='add-shadow mt-2'><a href='https://docs.google.com/forms/d/e/1FAIpQLSfY1Xso3LnqwQHvCrIhqulUSjzdthegzJ03DAd9AlWRV1f7Zw/viewform'>Submit a presentation!</a></h2></button></div>
 ### Session types
 We provide the following submission types:
 

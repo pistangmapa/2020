@@ -7,6 +7,10 @@ $color-muted: #f3f3f3;
 $color-accent-red: #cc3500;
 $color-accent-blue: #2184d0;
 $color-accent-yellow: #fcec18;
+$color-pnm-red: #cc3500;
+$color-pnm-blue: #2084d0;
+$color-pnm-yellow: #feb938;
+$color-pnm-muted: #4d4d4d;
 
 .color-primary {
     color: $color-primary;
@@ -42,4 +46,20 @@ $color-accent-yellow: #fcec18;
 
 .color-accent-yellow {
     color: $color-accent-yellow;
+}
+
+.color-pnm-red {
+    color: $color-pnm-red;
+}
+
+.color-pnm-blue {
+    color: $color-pnm-blue;
+}
+
+.color-pnm-yellow {
+    color: $color-pnm-yellow;
+}
+
+.color-pnm-muted {
+    color: $color-pnm-muted;
 }
