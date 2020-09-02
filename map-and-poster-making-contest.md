@@ -3,7 +3,7 @@ layout: page
 title: Pista ng Mapa 2020 Map & Poster Making Contest
 description: Pista ng Mapa 2020 Map & Poster Making Contest
 image:
-    facebook: assets/img/site/PnM-map-making-contest.webp
+    facebook: /assets/img/site/PnM-map-making-contest.webp
 ---
 #  Pista ng Mapa 2020 Map & Poster Making Contest
 
