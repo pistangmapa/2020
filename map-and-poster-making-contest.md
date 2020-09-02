@@ -2,6 +2,8 @@
 layout: page
 title: Pista ng Mapa 2020 Map & Poster Making Contest
 description: Pista ng Mapa 2020 Map & Poster Making Contest
+image:
+    facebook: assets/img/site/PnM-map-making-contest.webp
 ---
 #  Pista ng Mapa 2020 Map & Poster Making Contest
 
@@ -9,11 +11,12 @@ description: Pista ng Mapa 2020 Map & Poster Making Contest
 Let’s make our year mappy! Everyone is encouraged to join the map & poster making competition of this year's Pista ng Mapa -- the premier open mapping conference in the Philippines. Through this contest, we want to showcase the resilience and creativity of our map makers in telling stories and conveying information through free and open mapping.
 
 ### Theme
-This year's theme is ***Maps for Every Juan/a***.
+This year's theme is ***Mapa Para sa Lahat***.
 
-We are encouraging every ***Juan and Juana*** to submit their best cartographic work to the competition. The maps can have different subjects, forms and styles and we leave it to the map makers to choose the story they want to tell, information they want to convey, or questions they want to answer through their maps. However, each entry **must contain** the following elements:
+We are encouraging everyone to submit their best cartographic work to the competition. The maps can have different subjects, forms and styles and we leave it to the map makers to choose the story they want to tell, information they want to convey, or questions they want to answer through their maps. However, each entry **must contain** the following elements:
 * **Clarity of purpose** - the purpose of your map must immediately be understandable by your audience.
 * **Usability** - you must be explicit in telling your audience how to navigate your map and how to interpret it.
+* **Whose interest does the map serve** - what are the values and desires that you are weaving into your cartographic work.
 
 
 ### Categories
@@ -26,6 +29,7 @@ The competition will have 2 categories.
     * A dashboard that visualizes data spatially
     * A platform that displays spatial data
 
+***Submissions must be an original work***
 
 ### Who may join
 * The competition is open to all and everyone is free to join. We will have two tracks, one for **Students** and another for **Professionals / Non-students**.
