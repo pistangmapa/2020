@@ -11,7 +11,7 @@ image:
 Let’s make our year mappy! Everyone is encouraged to join the map & poster making competition of this year's Pista ng Mapa -- the premier open mapping conference in the Philippines. Through this contest, we want to showcase the resilience and creativity of our map makers in telling stories and conveying information through free and open mapping.
 
 ### Theme
-This year's theme is ***Mapa Para sa Lahat***.
+This year's theme is **Mapa Para sa Lahat**.
 
 We are encouraging everyone to submit their best cartographic work to the competition. The maps can have different subjects, forms and styles and we leave it to the map makers to choose the story they want to tell, information they want to convey, or questions they want to answer through their maps. However, each entry **must contain** the following elements:
 * **Clarity of purpose** - the purpose of your map must immediately be understandable by your audience.
