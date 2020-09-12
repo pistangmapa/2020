@@ -4,9 +4,9 @@ title: Code of Conduct
 description: full code of conduct for mapping events
 tags: mapathon, mapamore
 ---
-# Code of Conduct (CoC)
+<h1 class="color-pnm-red">Code of Conduct</h1>
 
-### Summary
+## Summary
 
 The organizers are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form.
 
@@ -26,7 +26,7 @@ Harassment includes verbal comments that reinforce social structures of dominati
 
 Workshops, presentations and talks are also subjected to anti-harassment policy. In particular, the presenters should not use inappropriate content or images in their presentations and workshops.
 
-**What are the consequences of violating the CoC?**
+## What are the consequences of violating the CoC?
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the activity with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns that you are unable to satisfactorily resolve amongst the person(s) involved, please contact a member of conference staff immediately. Escalation to, and incident reporting by a small subset of conference team leaders will ensure that repeat offenders do not go unnoticed.
 

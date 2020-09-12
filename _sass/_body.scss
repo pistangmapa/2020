@@ -1,26 +1,36 @@
 body {
     font-family: $font-open-sans;
     color: $color-primary;
-    font-size: 20px;
-    background: url("../img/site/PnM-bg0.webp") no-repeat center center fixed;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 1.7;
+    background: url("../img/site/background.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     // background-color: $color-secondary;
+
+    strong, b {
+        font-weight: bold;
+    }
+
+    p.small {
+        font-weight: 300;
+    }
 }
 
-h1 {
-    font-family: $font-mogra;
-    color: $color-tertiary;
-    font-weight: bold;
-    line-height: 1.4;
-    text-shadow: 0 0 4px #fbfdb2;
-}
+// h1 {
+//     font-family: $font-mogra;
+//     color: $color-tertiary;
+//     font-weight: bold;
+//     line-height: 1.4;
+//     text-shadow: 0 0 4px #fbfdb2;
+// }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     // font-family: $font-open-sans;
-    font-family: $font-mogra;
+    font-family: $font-poppins;
     color: $color-primary-dark;
     font-weight: bold;
     line-height: 1.4;
@@ -28,9 +38,18 @@ h2, h3, h4, h5, h6 {
 
 p {
     font-family: $font-open-sans;
-    font-weight: normal;
-    font-size: 20px;
+    color: $color-primary;
+    font-weight: 300;
+    font-size: 22px;
     line-height: 1.7;
+
+    small {
+        font-weight: 300;
+    }
+}
+
+strong, b {
+    font-weight: bold;
 }
 
 .small-line-height {
@@ -75,11 +94,11 @@ p {
     cursor: pointer;
     padding: 12px;
     border-radius: 5px;
-    background-color: $color-primary;
+    background-color: $color-primary-dark;
     opacity: 0.5;
 
     &:hover {
-        background-color: $color-primary-dark;
+        background-color: $color-primary;
         opacity: 0.5;
     }
 
