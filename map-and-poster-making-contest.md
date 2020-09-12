@@ -5,9 +5,9 @@ description: Pista ng Mapa 2020 Map & Poster Making Contest
 image:
     facebook: /assets/img/site/PnM-map-making-contest.webp
 ---
-#  Pista ng Mapa 2020 Map & Poster Making Contest
+<h1 class="color-pnm-red">Pista ng Mapa 2020 Map & Poster Making Contest</h1>
 
-## About the contest
+<h2 class="color-pnm-blue">About the contest</h2>
 Let’s make our year mappy! Everyone is encouraged to join the map & poster making competition of this year's Pista ng Mapa -- the premier open mapping conference in the Philippines. Through this contest, we want to showcase the resilience and creativity of our map makers in telling stories and conveying information through free and open mapping.
 
 ### Theme
@@ -29,7 +29,7 @@ The competition will have 2 categories.
     * A dashboard that visualizes data spatially
     * A platform that displays spatial data
 
-***Submissions must be an original work***
+**Submissions must be an original work**
 
 ### Who may join
 * The competition is open to all and everyone is free to join. We will have two tracks, one for **Students** and another for **Professionals / Non-students**.
@@ -39,10 +39,10 @@ The competition will have 2 categories.
 ### Criteria
 The entries will be judged according to the following criteria:
 
-| Criteria                  | Percentage |
+|                |  |
 |---------------------------|:----------:|
-| **STORYTELLING**<br>*How compelling or impactful is the story or information being conveyed?*       |     **25%**    |
-| **CREATIVITY / PRESENTATION**<br>*How was spatial data and technologies used to present the story or convey the information?*       |     **25%**    |
+| **STORYTELLING**<br>*How compelling or impactful is the story or information being conveyed?*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        |     **25%**    |
+| **CREATIVITY / PRESENTATION**<br>*How was spatial data and technologies used to present the story <br>or convey the information?*       |     **25%**    |
 | **RELEVANCE**<br>*How relevant is the map, story, or information being conveyed?*       |     **25%**    |
 | **REPRODUCIBILITY**<br>*How did the map utilize free and open data or free and open source software?*           |     **15%**    |
 | **PEOPLE'S CHOICE**<br>       |     **10%**    |
@@ -55,7 +55,7 @@ The winners will receive **PhP 5,000.00 worth of online education/learning credi
 
 ***The four winners will have reserved slots in Pista ng Mapa as speakers in the lightning talk or show-and-tell sessions where they can talk about their map to the community.***
 
-## Schedule
+<h2 class="color-pnm-blue">Schedule</h2>
 
 |---------------------------------------|----------:|
 | **Opening of submissions**  |     September 1, 2020    |
@@ -64,7 +64,7 @@ The winners will receive **PhP 5,000.00 worth of online education/learning credi
 | **Announcement of winners** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 26, 2020    |
 |   |   |
 
-## Submission Requirements
+<h2 class="color-pnm-blue">Submission Requirements</h2>
 ### Static Maps
 * A compressed folder of the map image file/s (JPEG,PNG) 
 * Minimum resolution of 300 dpi
@@ -91,6 +91,6 @@ The winners will receive **PhP 5,000.00 worth of online education/learning credi
 Submissions need to be emailed to **pistangmapa@gmail.com** on or before September 30. 
 By submitting your works, you ensure organizers that the submission is an original work and has not been submitted and won in a previous similar competition.
 
-## Other information
+<h2 class="color-pnm-blue">Other information</h2>
 The map maker is accountable for any issues that may arise with regard to the originality and authenticity of the design. 
 Please contact **pistangmapa@gmail.com** if you have any questions.
