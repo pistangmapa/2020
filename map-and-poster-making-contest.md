@@ -50,8 +50,8 @@ The entries will be judged according to the following criteria:
 
 
 ### Prize
-There will be **eight (8) winners** -- two per category (***Static*** and ***Interactive***) for each participant group (***Students*** and ***Professional/Non-students***).
-The winners will receive **PhP 5,000.00 worth of online education/learning credits**. The prize is also convertible to cash but is non-transferable.
+There will be **four (8) winners** -- one per category (***Static*** and ***Interactive***) for each participant group (***Students*** and ***Professional/Non-students***).
+The winners will receive **PhP 10,000.00 worth of online education/learning credits**. The prize is also convertible to cash but is non-transferable.
 
 ***The winners will have reserved slots in Pista ng Mapa as speakers in the lightning talk or show-and-tell sessions where they can talk about their map to the community.***
 
