@@ -23,7 +23,7 @@ We are encouraging everyone to submit their best cartographic work to the compet
 The competition will have 2 categories.
 * **Static Maps**
     * A digital map or poster
-    * Images of a physical map that was handmadde or printed
+    * Images of a physical map that was hand-made or printed
 * **Interactive Maps**
     * A webpage that tells a data story through an interactive map
     * A dashboard that visualizes data spatially
@@ -33,7 +33,8 @@ The competition will have 2 categories.
 
 ### Who may join
 * The competition is open to all and everyone is free to join. We will have two tracks, one for **Students** and another for **Professionals / Non-students**.
-* Maps, cartographic research posters, and other displays of cartography-related work qualify as long as they have not yet submitted or they have not won a prior related competition.
+* Maps, cartographic research posters, and other displays of cartography-related work qualify as long as they have not yet been submitted to or they have not won a prior related competition.
+* The submissions must be an original work.
 
 
 ### Criteria
@@ -88,7 +89,7 @@ The winners will receive **PhP 10,000.00 worth of online education/learning cred
 * Short bio of map maker/s 
 
 
-Submissions need to be emailed to **pistangmapa@gmail.com** on or before September 30. 
+Submissions need to be emailed to **pistangmapa@gmail.com** on or before October 10, 2020. 
 By submitting your works, you ensure organizers that the submission is an original work and has not been submitted and won in a previous similar competition.
 
 <h2 class="color-pnm-blue">Other information</h2>
