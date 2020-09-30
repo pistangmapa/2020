@@ -50,18 +50,18 @@ The entries will be judged according to the following criteria:
 
 
 ### Prize
-There will be **four (4) winners** -- one per category (***Static*** and ***Interactive***) for each participant group (***Students*** and ***Professional/Non-students***).
+There will be **eight (8) winners** -- two per category (***Static*** and ***Interactive***) for each participant group (***Students*** and ***Professional/Non-students***).
 The winners will receive **PhP 5,000.00 worth of online education/learning credits**. The prize is also convertible to cash but is non-transferable.
 
-***The four winners will have reserved slots in Pista ng Mapa as speakers in the lightning talk or show-and-tell sessions where they can talk about their map to the community.***
+***The winners will have reserved slots in Pista ng Mapa as speakers in the lightning talk or show-and-tell sessions where they can talk about their map to the community.***
 
 <h2 class="color-pnm-blue">Schedule</h2>
 
 |---------------------------------------|----------:|
 | **Opening of submissions**  |     September 1, 2020    |
-| **Deadline of submissions** |     September 30, 2020    |
-| **Judging period**                 |     October 1-15, 2020    |
-| **Announcement of winners** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 26, 2020    |
+| **Deadline of submissions** |     October 10, 2020    |
+| **Judging period**                 |     October 11-18, 2020    |
+| **Announcement of winners** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 20, 2020    |
 |   |   |
 
 <h2 class="color-pnm-blue">Submission Requirements</h2>
