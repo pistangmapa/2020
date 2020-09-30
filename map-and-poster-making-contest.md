@@ -32,7 +32,7 @@ The competition will have 2 categories.
 **Submissions must be an original work**
 
 ### Who may join
-* The competition is open to all and everyone is free to join. We will have two tracks, one for **Students** and another for **Professionals / Non-students**.
+* The competition is open to all and everyone is free to join. There will be **TWO TRACKS** where winners will be selected: one for **Students** and another for **Professionals / Non-students**. Students include those pursuing post-graduate (MS, PhD) studies and must be currently enrolled. Participants submitting under the Student track must also provide proof of enrollment.
 * Maps, cartographic research posters, and other displays of cartography-related work qualify as long as they have not yet been submitted to or they have not won a prior related competition.
 * The submissions must be an original work.
 
