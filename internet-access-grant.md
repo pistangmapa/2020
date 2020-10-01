@@ -3,7 +3,7 @@ layout: page
 title: Pista ng Mapa 2020 Internet Access Grant
 description: Pista ng Mapa 2020 Internet Access Grant
 image:
-    facebook: /assets/img/site/PnM-map-making-contest.webp
+    facebook: /assets/img/site/internet-grant.jpg
 ---
 <h1 class="color-pnm-red"> Pista ng Mapa 2020 Internet Access Grant</h1>
 
