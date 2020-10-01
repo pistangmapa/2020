@@ -24,6 +24,12 @@ To ensure Internet access to participants of PnM20, Internet Access Grants (IAG)
 * Participants must fill-in the application form, and answer questions to determine their profile
 * To receive a final “bonus” tranche, grant recipients whose records show them attending all three conference sessions only need to complete a feedback form.
 
+<div class="d-flex justify-content-start pb-4 mb-4"><a
+    href="https://docs.google.com/forms/d/e/1FAIpQLSd43xz8kG7rtWw6pouXuFtcBrxHKwNLJYc6kuKhxTh8TQ_66g/viewform"
+    target="_blank" class="btn btn-lg bg-color-pnm-red col-sm-12 col-lg-6" style="color: white;" role="button"
+    aria-disabled="true"><strong class="font-poppins">Apply for a grant</strong></a></div>
+
+
 <h2 class="color-pnm-blue">Mechanics</h2>
 
 * For Globe/TM/Smart/Sun/TNT prepaid users, there will be 3 tranches, plus a bonus tranche if they qualify
@@ -57,3 +63,5 @@ To ensure Internet access to participants of PnM20, Internet Access Grants (IAG)
 7. Organizers may use the data you provide to (1) verify whether you are eligible to enter the competition; (2) generate the statistics information of your demographics, based on anonymized data; (3) deal with your queries in connection with the competition or any prize you win; (4) to determine or name grant recipients.
 
 8. Organizers are committed to protecting your personal data; however, please note that no security measure is perfect. The organizers will keep your personally identifiable information for a period of one year after the grant application process closes.
+
+

@@ -89,7 +89,12 @@ The winners will receive **PhP 10,000.00 worth of online education/learning cred
 * Short bio of map maker/s 
 
 
-Submissions need to be emailed to **pistangmapa@gmail.com** on or before October 10, 2020. 
+<div class="d-flex justify-content-start pb-4 mb-4"><a
+    href="https://www.bit.ly/pnm20mpsl"
+    target="_blank" class="btn btn-lg bg-color-pnm-red col-sm-12 col-lg-6" style="color: white;" role="button"
+    aria-disabled="true"><strong class="font-poppins">Submit an Entry</strong></a></div>
+
+Entries must be submitted on or before October 10, 2020. 
 By submitting your works, you ensure organizers that the submission is an original work and has not been submitted and won in a previous similar competition.
 
 <h2 class="color-pnm-blue">Other information</h2>
