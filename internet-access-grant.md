@@ -21,7 +21,7 @@ To ensure Internet access to participants of PnM20, Internet Access Grants (IAG)
 
 <h2 class="color-pnm-blue">Application</h2>
 
-* Participants must fill-in the application form, and answer questions to determine their profile
+* Participants must fill-in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSd43xz8kG7rtWw6pouXuFtcBrxHKwNLJYc6kuKhxTh8TQ_66g/viewform), and answer questions to determine their profile
 * To receive a final “bonus” tranche, grant recipients whose records show them attending all three conference sessions only need to complete a feedback form.
 
 <div class="d-flex justify-content-start pb-4 mb-4"><a
