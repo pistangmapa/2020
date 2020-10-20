@@ -45,8 +45,7 @@ The entries will be judged according to the following criteria:
 | **STORYTELLING**<br>*How compelling or impactful is the story or information being conveyed?*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        |     **25%**    |
 | **CREATIVITY / PRESENTATION**<br>*How was spatial data and technologies used to present the story <br>or convey the information?*       |     **25%**    |
 | **RELEVANCE**<br>*How relevant is the map, story, or information being conveyed?*       |     **25%**    |
-| **REPRODUCIBILITY**<br>*How did the map utilize free and open data or free and open source software?*           |     **15%**    |
-| **PEOPLE'S CHOICE**<br>       |     **10%**    |
+| **REPRODUCIBILITY**<br>*How did the map utilize free and open data or free and open source software?*           |     **25%**    |
 |   |   |
 
 
