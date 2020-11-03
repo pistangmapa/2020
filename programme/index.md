@@ -184,16 +184,16 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T07:45:00Z">15:45</a></td>
             <td id="session_#">
-                <strong>LIGHTNING TALKS 2 (GEOLADIES + MAPBEKS)</strong><br>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>OSM LoCos: Finland Edition</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>LIGHTNING TALKS 2 (GEOLADIES + MAPBEKS)</strong></a><br>
+                <strong>OSM LoCos: Finland Edition</strong>
                 <p class="small speaker">Leigh Lunas</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>LGBT Safe Spaces Mapping in the Philippines</strong></a>
+                <strong>LGBT Safe Spaces Mapping in the Philippines</strong>
                 <p class="small speaker">Pent Elyria Dawn V. Liongson</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Audible Maps: Mental Health AWHEREness’ HEAR</strong></a>
+                <strong>Audible Maps: Mental Health AWHEREness’ HEAR</strong>
                 <p class="small speaker">Andi Tabinas</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>HIV Facilities Mapping in the Philippines: Status Update</strong></a>
+                <strong>HIV Facilities Mapping in the Philippines: Status Update</strong>
                 <p class="small speaker">Joshua Mario Bacal</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Mapping my OSM Journey</strong></a>
+                <strong>Mapping my OSM Journey</strong>
                 <p class="small speaker">Feye Andal</p>
             </td>
         </tr>
@@ -272,12 +272,12 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T06:15:00Z">14:15</a></td>
             <td id="session_#">
-                <strong>LIGHTNING TALKS 3</strong><br>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Pre and Post 3D Representation of Mt. Pinatubo</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>LIGHTNING TALKS 3</strong></a><br>
+                <strong>Pre and Post 3D Representation of Mt. Pinatubo</strong>
                 <p class="small speaker">Leonard G. Soriano</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Making Maps that Vote for Itself <br>(How Mt. Isarog became the QGIS 3.14 Pi Splash Screen)</strong></a>
+                <strong>Making Maps that Vote for Itself <br>(How Mt. Isarog became the QGIS 3.14 Pi Splash Screen)</strong>
                 <p class="small speaker">Francis Josef Gasgonia</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>OSMaPaaralan: Status of mapping public schools in the Philippines</strong></a>
+                <strong>OSMaPaaralan: Status of mapping public schools in the Philippines</strong>
                 <p class="small speaker">Maning Sambale, Erwin Olario</p>
             </td>
         </tr>
@@ -351,15 +351,15 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T12:30:00Z">20:30</a></td>
             <td id="session_#">
-                <strong>LIGHTNING TALKS 4 (MAPA PARA SA LAHAT)</strong><br>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Threats to the Last Ecological Frontiers of the Philippine Eagle <br><em>(Pithecophaga jefferyi)</em></strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>LIGHTNING TALKS 4 (MAPA PARA SA LAHAT)</strong></a><br>
+                <strong>Threats to the Last Ecological Frontiers of the Philippine Eagle <br><em>(Pithecophaga jefferyi)</em></strong>
                 <p class="small speaker">Allen Glen Gil</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Storm Surge Impact Scenario (Municipality of Cariraga)</strong></a>
+                <strong>Storm Surge Impact Scenario (Municipality of Cariraga)</strong>
                 <p class="small speaker">Kim Nardo Lumanas</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Earthquakes in the Philippines</strong></a>
+                <strong>Earthquakes in the Philippines</strong>
                 <p class="small speaker">Sorbi Ildefonso</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Visualizing Volcanoes Minimally</strong></a>
-                <p class="small speaker">John Louie Fabila</p>                
+                <strong>Visualizing Volcanoes Minimally</strong>
+                <p class="small speaker">John Louie Fabila</p>
             </td>
         </tr>
         <tr>

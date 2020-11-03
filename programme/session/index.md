@@ -184,16 +184,16 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T07:45:00Z">15:45</a></td>
             <td id="session_#">
-                <strong>LIGHTNING TALKS 2 (GEOLADIES + MAPBEKS)</strong><br>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>OSM LoCos: Finland Edition</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>LIGHTNING TALKS 2 (GEOLADIES + MAPBEKS)</strong></a><br>
+                <strong>OSM LoCos: Finland Edition</strong>
                 <p class="small speaker">Leigh Lunas</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>LGBT Safe Spaces Mapping in the Philippines</strong></a>
+                <strong>LGBT Safe Spaces Mapping in the Philippines</strong>
                 <p class="small speaker">Pent Elyria Dawn V. Liongson</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Audible Maps: Mental Health AWHEREness’ HEAR</strong></a>
+                <strong>Audible Maps: Mental Health AWHEREness’ HEAR</strong>
                 <p class="small speaker">Andi Tabinas</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>HIV Facilities Mapping in the Philippines: Status Update</strong></a>
+                <strong>HIV Facilities Mapping in the Philippines: Status Update</strong>
                 <p class="small speaker">Joshua Mario Bacal</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Mapping my OSM Journey</strong></a>
+                <strong>Mapping my OSM Journey</strong>
                 <p class="small speaker">Feye Andal</p>
             </td>
         </tr>
