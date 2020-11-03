@@ -44,7 +44,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:30:00Z">14:30</a></td>
             <td id="session_#">
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>What we mean when we say Open: Open Stuff in the Philippines</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>What we mean when we say Open: Open Data in the Philippines</strong></a>
                 <p class="small speaker">Ben Hur Pintor</p>
             </td>
         </tr>
