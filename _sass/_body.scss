@@ -183,3 +183,34 @@ strong, b {
     // border-color: rgba(254, 185, 56, 0.8);
     // border-width: 2px;
 }
+
+
+.programme-table {
+    width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 1em 0;
+
+    thead td {
+        border: solid 1px $color-pnm-blue;
+        background-color: $color-pnm-blue;
+        color: #fff;
+        padding: 10px;
+        display: table-cell;
+
+    }
+
+    tbody td {
+        border: solid 1px #cfcfcf;
+        padding: 10px;
+        display: table-cell;
+
+    }
+
+    .speaker {
+        color: $color-primary-light;
+    }
+}
+
+
