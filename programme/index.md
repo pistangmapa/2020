@@ -72,14 +72,14 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T08:00:00Z">16:00</a></td>
             <td id="session_#">
-                <strong>LIGHTNING TALKS 1</strong><br>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Mapping your Home: A Short Talk on Hometown Mapping</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>LIGHTNING TALKS 1</strong></a><br>
+                <strong>Mapping your Home: A Short Talk on Hometown Mapping</strong>
                 <p class="small speaker">Joseph Marvin Lopez</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Bin There, Dump That: Sorting Out the Garbage Crisis One Byte at a Time</strong></a>
+                <strong>Bin There, Dump That: Sorting Out the Garbage Crisis One Byte at a Time</strong>
                 <p class="small speaker">Migi Laperal and Leocer Bularan (UP Institute of Civil Engineering)</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Diwata 2 Tracker</strong></a>
+                <strong>Diwata 2 Tracker</strong>
                 <p class="small speaker">Sarah Jane Sanchez (STAMINA4Space)</p>
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>Divide and map. Now.</strong></a>
+                <strong>Divide and map. Now.</strong>
                 <p class="small speaker">Jiri Hubacek</p>
             </td>
         </tr>
