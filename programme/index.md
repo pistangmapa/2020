@@ -31,14 +31,14 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:00:00Z">14:00</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Opening</strong></a>
-                <p class="small speaker">SotM Working Group</p>
+                <p class="small speaker">Pista ng Mapa Organizers</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:15:00Z">14:15</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>The FOSS4G Ribbon: The Passion for Sharing, and for People</strong></a>
-                <p class="small speaker">Jeff McKenna</p>
+                <p class="small speaker">Jeff McKenna (GatewayGeo)</p>
             </td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>SPONSOR TALK: <a href="https://www.mapillary.com/">MAPILLARY</a></strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Using street-level imagery and computer vision to map the Philippines</strong></a>
-                <p class="small speaker">Edoardo Neerhut (Mapillary)</p>
+                <p class="small speaker">Edoardo Neerhut (Facebook/Mapillary)</p>
             </td>
         </tr>
         <tr class="bg-light">
@@ -76,9 +76,9 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Mapping your Home: A Short Talk on Hometown Mapping</strong></a>
                 <p class="small speaker">Joseph Marvin Lopez</p>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Bin There, Dump That: Sorting Out the Garbage Crisis One Byte at a Time</strong></a>
-                <p class="small speaker">Migi Laperal, Leocer Bularan</p>
+                <p class="small speaker">Migi Laperal and Leocer Bularan (UP Institute of Civil Engineering)</p>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Diwata 2 Tracker</strong></a>
-                <p class="small speaker">Sarah Jane Sanchez</p>
+                <p class="small speaker">Sarah Jane Sanchez (STAMINA4Space)</p>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Divide and map. Now.</strong></a>
                 <p class="small speaker">Jiri Hubacek</p>
             </td>
@@ -107,7 +107,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T11:00:00Z">19:00</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>State of Nation's Climate Action</strong></a>
-                <p class="small speaker">Elainne Lopez (ICSC)</p>
+                <p class="small speaker">Elainne Lopez (Institute for Climate and Sustainable Cities)</p>
             </td>
         </tr>
         <tr>
@@ -128,7 +128,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>SPONSOR TALK: <a href="https://www.mapbox.com/">MAPBOX</a></strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>RiesgoVis: Assessing and Visualizing Evacuation Suitability</strong></a>
-                <p class="small speaker">Unisse Chua & Briane Paul V. Samson (De La Salle University)</p>
+                <p class="small speaker">Unisse Chua and Briane Paul V. Samson (De La Salle University)</p>
             </td>
         </tr>    
         <tr>
@@ -158,7 +158,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>SPONSOR TALK: <a href="https://www.mapbox.com/">MAPBOX</a></strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Mapbox 💗 Community</strong></a>
-                <p class="small speaker">Maning Sambale & Marena Brinkhurst (Mapbox)</p>
+                <p class="small speaker">Maning Sambale and Marena Brinkhurst (Mapbox)</p>
             </td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T07:00:00Z">15:00</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>ENDing the COVID-19 Pandemic in the Philippines (endcov.ph):<br>Development of a Web-Based Awareness & Decision Support System on COVID-19<br>using FOSS Tools</strong></a>
-                <p class="small speaker">Feye Andal (HOT Philippines)</p>
+                <p class="small speaker">Dianne Bencito (UP Resilience Institute)</p>
             </td>
         </tr>
         <tr class="bg-light">
@@ -190,7 +190,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
                 <strong>LGBT Safe Spaces Mapping in the Philippines</strong>
                 <p class="small speaker">Pent Elyria Dawn V. Liongson</p>
                 <strong>Audible Maps: Mental Health AWHEREness’ HEAR</strong>
-                <p class="small speaker">Andi Tabinas</p>
+                <p class="small speaker">Andi Tabinas (Mental Health AWHEREness PH)</p>
                 <strong>HIV Facilities Mapping in the Philippines: Status Update</strong>
                 <p class="small speaker">Joshua Mario Bacal</p>
                 <strong>Mapping my OSM Journey</strong>
@@ -202,7 +202,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>MINI-WORKSHOP</strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Creating a Code of Conduct for OpenStreetMap Philippines</strong></a>
-                <p class="small speaker">GeoLadies PH, Ministry of Mapping</p>
+                <p class="small speaker">GeoLadies PH and Ministry of Mapping</p>
             </td>
         </tr>
         <tr class="bg-light">
@@ -216,7 +216,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>SPONSOR TALK: <a href="https://www.fef.org.ph/">FEF</a></strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>Technology for Property Rights</strong></a>
-                <p class="small speaker">Voltaire Tila, Angela Arnante (FEF)</p>
+                <p class="small speaker">Voltaire Tila and Angela Arnante (Foundation for Economic Freedom)</p>
             </td>
         </tr>
         <tr>
@@ -244,7 +244,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td id="session_#">
                 <strong>SPONSOR WORKSHOP: <a href="https://www.facebook.com/">FACEBOOK</a></strong><br>
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>RapiD Workshop</strong></a>
-                <p class="small speaker">Danil Kirsanov (Facebook)</p>
+                <p class="small speaker">Danil Kirsanov, Benjamin Clark, and David Yang (Facebook)</p>
             </td>
         </tr>    
     </tbody>
@@ -285,7 +285,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T07:00:00Z">15:00</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>SMASH: digital field mapping for everyone</strong></a>
-                <p class="small speaker">Silvia Franceschi</p>
+                <p class="small speaker">Silvia Franceschi (HydroloGIS s.r.l.)</p>
             </td>
         </tr>
         <tr class="bg-light">
@@ -339,7 +339,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T11:30:00Z">19:30</a></td>
             <td id="session_#">
                 <a href="{{ site.baseurl }}/programme/session/#"><strong>OpenStreetMap Features as Proxy to Socio-Economic Indicators: <br>A Network Theory Approach</strong></a>
-                <p class="small speaker">Albert Yumol</p>
+                <p class="small speaker">Albert Yumol (Eskwelabs)</p>
             </td>
         </tr>
         <tr class="bg-light">
