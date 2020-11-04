@@ -209,7 +209,13 @@ strong, b {
     }
 
     .speaker {
+        margin-bottom: 0;
         color: $color-primary-light;
+        
+        + strong {
+            display: block;
+            margin-top: 1rem;
+        }
     }
 }
 
