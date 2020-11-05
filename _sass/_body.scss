@@ -198,7 +198,6 @@ strong, b {
         color: #fff;
         padding: 10px;
         display: table-cell;
-
     }
 
     tbody td {
@@ -206,17 +205,41 @@ strong, b {
         padding: 10px;
         display: table-cell;
 
+        &:first-child {
+            text-align: center;
+        }
+    }
+
+    .break-time {
+        background: fade-out($color-pnm-blue, 0.7);
+    }
+
+    .session-header,
+    .sponsor-note {
+        margin: -10px -10px 10px;
+        padding: 10px;
+        font-weight: bold;
+        font-size: 0.7em;
+        text-transform: uppercase;
+        background: fade-out($color-pnm-blue, 0.85);
+    }
+
+    .session-title {
+        margin: 0;
+
+        .session-subtitle {
+            display: block;
+            font-size: 0.85em;
+        }
     }
 
     .speaker {
         margin-bottom: 0;
         color: $color-primary-light;
-        
+
         + strong {
             display: block;
             margin-top: 1rem;
         }
     }
 }
-
-
