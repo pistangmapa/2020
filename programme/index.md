@@ -222,7 +222,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T11:00:00Z">19:00</a></td>
             <td id="session_#">
-                <a href="{{ site.baseurl }}/programme/session/#"><strong>TanawHorama: Generation of panoramic scenes from Laser Scanners <br>and UAVs for site inspection using opensource software</strong></a>
+                <a href="{{ site.baseurl }}/programme/session/#"><strong>TanawHorama: Panoramic scenes generation workflow from multi-source images using opensource technologies</strong></a>
                 <p class="small speaker">Fin Meneses</p>
             </td>
         </tr>
