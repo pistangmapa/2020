@@ -211,7 +211,7 @@ strong, b {
     }
 
     .break-time {
-        background: fade-out($color-pnm-blue, 0.7);
+        background: fade-out($color-pnm-blue, 0.85);
     }
 
     .session-header,
@@ -221,7 +221,7 @@ strong, b {
         font-weight: bold;
         font-size: 0.7em;
         text-transform: uppercase;
-        background: fade-out($color-pnm-blue, 0.85);
+        background: fade-out($color-pnm-blue, 0.75);
     }
 
     .session-title {
@@ -237,7 +237,7 @@ strong, b {
         margin-bottom: 0;
         color: $color-primary-light;
 
-        + strong {
+        + .session-title {
             display: block;
             margin-top: 1rem;
         }

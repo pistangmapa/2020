@@ -313,7 +313,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
                 <p class="small speaker">Ben Hur Pintor (BNHR)</p>
             </td>
         </tr>
-        <tr class="bg-light">
+        <tr class="break-time">
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T09:30:00Z">17:30</a></td>
             <td>
                 <em>Dinner break + Sponsor booth</em>
