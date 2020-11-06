@@ -323,8 +323,8 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T10:30:00Z">18:30</a></td>
             <td id="session_#">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.grab.com/ph/">Grab</a></em></p>
-                <p class="session-title"><strong>TBD</strong></p>
-                <p class="small speaker">TBD</p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Grab 💚 Community</strong></a></p>
+                <p class="small speaker">Mikko Tamura and Jinal Foflia (Grab)</p>
             </td>
         </tr>
         <tr>
