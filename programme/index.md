@@ -63,7 +63,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T07:45:00Z">15:45</a></td>
             <td id="session_pnm200104">
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200104"><strong>UNMAPPED PH</strong></a></p>
-                <p class="small speaker">Beatrice Tan Lim, Raymund Añonuevo, Kimberly Go Tian (MapBeks)</p>
+                <p class="small speaker">Mikko Tamura (MapBeks)</p>
             </td>
         </tr>
         <tr>
