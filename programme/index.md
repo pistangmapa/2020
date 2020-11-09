@@ -33,23 +33,23 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:15:00Z">14:15</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>The FOSS4G Ribbon: <span class="session-subtitle">The passion for sharing, and for people</span></strong></a></p>
+            <td id="session_pnm200101">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200101"><strong>The FOSS4G Ribbon: <span class="session-subtitle">The passion for sharing, and for people</span></strong></a></p>
                 <p class="small speaker">Jeff McKenna (GatewayGeo)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:30:00Z">14:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>What we mean when we say Open: <span class="session-subtitle">Open Data in the Philippines</span></strong></a></p>
+            <td id="session_pnm200102">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200102"><strong>What we mean when we say Open: <span class="session-subtitle">Open Data in the Philippines</span></strong></a></p>
                 <p class="small speaker">Ben Hur Pintor</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T07:00:00Z">15:00</a></td>
-            <td id="session_#">
+            <td id="session_pnm200103">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.mapillary.com/">Mapillary</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Using street-level imagery and computer vision to map the Philippines</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200103"><strong>Using street-level imagery and computer vision to map the Philippines</strong></a></p>
                 <p class="small speaker">Edoardo Neerhut (Facebook/Mapillary)</p>
             </td>
         </tr>
@@ -61,15 +61,15 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T07:45:00Z">15:45</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>UNMAPPED PH</strong></a></p>
+            <td id="session_pnm200104">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200104"><strong>UNMAPPED PH</strong></a></p>
                 <p class="small speaker">Beatrice Tan Lim, Raymund Añonuevo, Kimberly Go Tian (MapBeks)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T08:00:00Z">16:00</a></td>
-            <td id="session_#">
-                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/#"><em>Lightning talks 1</em></a></p>
+            <td id="session_pnm200105">
+                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm200105"><em>Lightning talks 1</em></a></p>
                 <p class="session-title"><strong>Mapping your Home: <span class="session-subtitle">A short talk on hometown mapping</span></strong></p>
                 <p class="small speaker">Joseph Marvin Lopez</p>
                 <p class="session-title"><strong>Bin there, dump that: <span class="session-subtitle">Sorting out the garbage crisis one byte at a time</span></strong></p>
@@ -82,8 +82,8 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T09:00:00Z">17:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Potentials for open-source land use change simulation in local planning</strong></a></p>
+            <td id="session_pnm200106">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200106"><strong>Potentials for open-source land use change simulation in local planning</strong></a></p>
                 <p class="small speaker">Alyosha Ezra Mallari</p>
             </td>
         </tr>
@@ -95,22 +95,22 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T10:30:00Z">18:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>How open mapping can make a big impact to the Sustainable Development Goals</strong></a></p>
+            <td id="session_pnm200107">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200107"><strong>How open mapping can make a big impact to the Sustainable Development Goals</strong></a></p>
                 <p class="small speaker">Laurence Lloyd Lumagbas</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T11:00:00Z">19:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>State of nation’s climate action</strong></a></p>
+            <td id="session_pnm200108">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200108"><strong>State of nation’s climate action</strong></a></p>
                 <p class="small speaker">Elainne Lopez (Institute for Climate and Sustainable Cities)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T11:30:00Z">19:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Common Alerting Protocol in the Philippines</strong></a></p>
+            <td id="session_pnm200109">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200109"><strong>Common Alerting Protocol in the Philippines</strong></a></p>
                 <p class="small speaker">Resly George Amador (DOST PAGASA)</p>
             </td>
         </tr>
@@ -122,16 +122,16 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T12:30:00Z">20:30</a></td>
-            <td id="session_#">
+            <td id="session_pnm200110">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.mapbox.com/">Mapbox</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>RiesgoVis: Assessing and Visualizing Evacuation Suitability</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200110"><strong>RiesgoVis: Assessing and Visualizing Evacuation Suitability</strong></a></p>
                 <p class="small speaker">Unisse Chua and Briane Paul V. Samson (De La Salle University)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T13:00:00Z">21:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>The state of MapRoulette</strong></a></p>
+            <td id="session_pnm200111">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200111"><strong>The state of MapRoulette</strong></a></p>
                 <p class="small speaker">Martijn van Exel (TomTom)</p>
             </td>
         </tr>

@@ -1,0 +1,32 @@
+page name is "pnm20<day-number><presentaion-number>" so the first presentation on the first day us "pnm200101"
+
+Edit the following front matter
+
+---
+layout: session-page
+title: "The title of the presentation"
+presentor: "The name of the presentor"
+headshot: "<placeholder in case we need it>"
+presentation-schedule: 'copy the <a href=???> part in the programme' (' is used here instead of " since " is already used in the links)
+presentation-duration: "Presentation duration"
+presentation-description: "Presentation description from their submission"
+presentation-video-yt: "link to video on YT"
+presentation-video-embed: "YT video embed code"
+description: "Pista ng Mapa 2020 Presentation -- <title> by <presentor>" (This is the blurb shown when the page is shared on socmed)
+image:
+---
+
+Example:
+---
+layout: session-page
+title: "The FOSS4G Ribbon: The passion for sharing and for people"
+presentor: "Jeff McKenna"
+headshot: ""
+presentation-schedule: '<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-13T06:15:00Z">13 Nov 2020, 14:15 UTC+8</a>'
+presentation-duration: "15 minutes (plus Q&A)"
+presentation-description: "Today the FOSS4G ribbon, part of every FOSS4G logo across the world since 2004, is so visible that many people are unaware of its true meaning.  What is the meaning of the ribbon?  Why exactly has FOSS4G spread so easily all across the world? Good questions. It's a short simple answer, always."
+presentation-video-yt: ""
+presentation-video-embed: ""
+description: "Pista ng Mapa 2020 Presentation -- The FOSS4G Ribbon: The passion for sharing and for people by Jeff McKenna"
+image:
+---
