@@ -77,7 +77,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
                 <p class="session-title"><strong>Diwata 2 Tracker</strong></p>
                 <p class="small speaker">Sarah Jane Sanchez (STAMINA4Space)</p>
                 <p class="session-title"><strong>Divide and map. Now.</strong></p>
-                <p class="small speaker">Jiri Hubacek</p>
+                <p class="small speaker">Jiri Vlasak</p>
             </td>
         </tr>
         <tr>
