@@ -152,23 +152,23 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
     <tbody>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T06:00:00Z">14:00</a></td>
-            <td id="session_#">
+            <td id="session_pnm200201">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.mapbox.com/">Mapbox</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Mapbox 💗 Community</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200201"><strong>Mapbox 💗 Community</strong></a></p>
                 <p class="small speaker">Maning Sambale and Marena Brinkhurst (Mapbox)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T06:30:00Z">14:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>How the COVID-19 pandemic remapped the reality: <span class="session-subtitle">HOT Philippines’ field mapping team narratives</span></strong></a></p>
+            <td id="session_pnm200202">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200202"><strong>How the COVID-19 pandemic remapped the reality: <span class="session-subtitle">HOT Philippines’ field mapping team narratives</span></strong></a></p>
                 <p class="small speaker">Feye Andal (HOT Philippines)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T07:00:00Z">15:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>ENDing the COVID-19 pandemic in the Philippines (endcov.ph): <span class="session-subtitle">Development of a web-based awareness & decision support system on COVID-19 using FOSS tools</span></strong></a></p>
+            <td id="session_pnm200203">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200203"><strong>ENDing the COVID-19 pandemic in the Philippines (endcov.ph): <span class="session-subtitle">Development of a web-based awareness & decision support system on COVID-19 using FOSS tools</span></strong></a></p>
                 <p class="small speaker">Dianne Bencito (UP Resilience Institute)</p>
             </td>
         </tr>
@@ -180,8 +180,8 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T07:45:00Z">15:45</a></td>
-            <td id="session_#">
-                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/#"><em>Lightning talks 2 (Geoladies + MapBeks)</em></a></p>
+            <td id="session_pnm200204">
+                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm200204"><em>Lightning talks 2 (Geoladies + MapBeks)</em></a></p>
                 <p class="session-title"><strong>OSM LoCos: Finland Edition</strong></p>
                 <p class="small speaker">Leigh Lunas (GeoLadies)</p>
                 <p class="session-title"><strong>LGBT Safe Spaces Mapping in the Philippines</strong></p>
@@ -196,9 +196,9 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T08:45:00Z">16:45</a></td>
-            <td id="session_#">
+            <td id="session_pnm200205">
                 <p class="session-header"><em>Mini-workshop</em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Creating a Code of Conduct for OpenStreetMap Philippines</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200205"><strong>Creating a Code of Conduct for OpenStreetMap Philippines</strong></a></p>
                 <p class="small speaker">GeoLadies PH and Ministry of Mapping</p>
             </td>
         </tr>
@@ -210,23 +210,23 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T10:30:00Z">18:30</a></td>
-            <td id="session_#">
+            <td id="session_pnm200206">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.fef.org.ph/">Foundation for Economic Freedom</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Technology for Property Rights</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200206"><strong>Technology for Property Rights</strong></a></p>
                 <p class="small speaker">Voltaire Tila and Angela Arnante (Foundation for Economic Freedom)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T11:00:00Z">19:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>TanawHorama: Panoramic scenes generation workflow from multi-source images using opensource technologies</strong></a></p>
+            <td id="session_pnm200207">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200207"><strong>TanawHorama: Panoramic scenes generation workflow from multi-source images using opensource technologies</strong></a></p>
                 <p class="small speaker">Fin Meneses</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T11:30:00Z">19:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>An open-source DInSAR software for monitoring ground deformation using radar satellites</strong></a></p>
+            <td id="session_pnm200208">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200208"><strong>An open-source DInSAR software for monitoring ground deformation using radar satellites</strong></a></p>
                 <p class="small speaker">Panji Brotoisworo (STAMINA4Space)</p>
             </td>
         </tr>
@@ -238,9 +238,9 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-20T12:30:00Z">20:30</a></td>
-            <td id="session_#">
+            <td id="session_pnm200209">
                 <p class="sponsor-note"><em>Sponsor workshop: <a href="https://www.facebook.com/">Facebook</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>RapiD workshop</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200209"><strong>RapiD workshop</strong></a></p>
                 <p class="small speaker">Danil Kirsanov, Benjamin Clark, and David Yang (Facebook)</p>
             </td>
         </tr>
