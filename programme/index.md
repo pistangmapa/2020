@@ -185,7 +185,7 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
                 <p class="session-title"><strong>OSM LoCos: Finland Edition</strong></p>
                 <p class="small speaker">Leigh Lunas (GeoLadies)</p>
                 <p class="session-title"><strong>LGBT Safe Spaces Mapping in the Philippines</strong></p>
-                <p class="small speaker">Pent Elyria Dawn V. Liongson (MapBeks)</p>
+                <p class="small speaker">Mikko Tamura (MapBeks)</p>
                 <p class="session-title"><strong>Audible maps: Mental Health AWHEREness’ HEAR</strong></p>
                 <p class="small speaker">Andi Tabinas (Mental Health AWHEREness PH)</p>
                 <p class="session-title"><strong>HIV facilities mapping in the Philippines: Status update</strong></p>
