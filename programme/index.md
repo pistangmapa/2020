@@ -260,16 +260,16 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
     <tbody>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T06:00:00Z">14:00</a></td>
-            <td id="session_#">
+            <td id="session_pnm200301">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://kaartgroup.com/">Kaart</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Kaart: Improving OpenStreetMap together</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200301"><strong>Kaart: Improving OpenStreetMap together</strong></a></p>
                 <p class="small speaker">Ian Malott (Kaart)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T06:15:00Z">14:15</a></td>
-            <td id="session_#">
-                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/#"><em>Lightning talks 3</em></a></p>
+            <td id="session_pnm200302">
+                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm200302"><em>Lightning talks 3</em></a></p>
                 <p class="session-title"><strong>Pre and post 3D representation of Mt. Pinatubo</strong></p>
                 <p class="small speaker">Leonard G. Soriano</p>
                 <p class="session-title"><strong>Making maps that vote for itself: <span class="session-subtitle">How Mt. Isarog became the QGIS 3.14 Pi splash screen</span></strong></p>
@@ -280,8 +280,8 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T07:00:00Z">15:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>SMASH: Digital field mapping for everyone</strong></a></p>
+            <td id="session_pnm200303">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200303"><strong>SMASH: Digital field mapping for everyone</strong></a></p>
                 <p class="small speaker">Silvia Franceschi (HydroloGIS s.r.l.)</p>
             </td>
         </tr>
@@ -293,23 +293,23 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T07:45:00Z">15:45</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Mapping the geography of the UAAP Men’s Basketball Tournament (Season 81)</strong></a></p>
+            <td id="session_pnm200304">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200304"><strong>Mapping the geography of the UAAP Men’s Basketball Tournament (Season 81)</strong></a></p>
                 <p class="small speaker">Ben Hur Pintor</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T08:15:00Z">16:15</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Ten QGIS plugins in ten minutes</strong></a></p>
+            <td id="session_pnm200305">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200305"><strong>Ten QGIS plugins in ten minutes</strong></a></p>
                 <p class="small speaker">Sorbi Ildefonso</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T08:30:00Z">16:30</a></td>
-            <td id="session_#">
+            <td id="session_pnm200306">
                 <p class="session-header"><em>Workshop</em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Some lesser-known functions of QGIS</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200306"><strong>Some QGIS Tips and Tricks</strong></a></p>
                 <p class="small speaker">Ben Hur Pintor (BNHR)</p>
             </td>
         </tr>
@@ -321,23 +321,23 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T10:30:00Z">18:30</a></td>
-            <td id="session_#">
+            <td id="session_pnm200307">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.grab.com/ph/">Grab</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>Grab 💚 Community</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200307"><strong>Grab 💚 Community</strong></a></p>
                 <p class="small speaker">Mikko Tamura and Jinal Foflia (Grab)</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T11:00:00Z">19:00</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>OSM Data Coverage Evaluation</strong></a></p>
+            <td id="session_pnm200308">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200308"><strong>OSM Data Coverage Evaluation</strong></a></p>
                 <p class="small speaker">Emiliani Febrina Dewi</p>
             </td>
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T11:30:00Z">19:30</a></td>
-            <td id="session_#">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/#"><strong>OpenStreetMap features as proxy to socio-economic indicators: <span class="session-subtitle">A network theory approach</span></strong></a></p>
+            <td id="session_pnm200309">
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm200309"><strong>OpenStreetMap features as proxy to socio-economic indicators: <span class="session-subtitle">A network theory approach</span></strong></a></p>
                 <p class="small speaker">Albert Yumol (Eskwelabs)</p>
             </td>
         </tr>
@@ -349,8 +349,8 @@ For a complete set of session rules, go [here]({{ site.baseurl }}/programme/sess
         </tr>
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2020-11-27T12:30:00Z">20:30</a></td>
-            <td id="session_#">
-                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/#"><em>Lightning talks 4 (Mapa Para Sa Lahat)</em></a></p>
+            <td id="session_pnm200310">
+                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm200310"><em>Lightning talks 4 (Mapa Para Sa Lahat)</em></a></p>
                 <p class="session-title"><strong>Threats to the last ecological frontiers of the Philippine Eagle (<i>Pithecophaga jefferyi</i>)</strong></p>
                 <p class="small speaker">Allen Glen Gil</p>
                 <p class="session-title"><strong>Storm surge impact scenario (Municipality of Carigara)</strong></p>
